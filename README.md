@@ -8,7 +8,6 @@
 ## Оценка до рефакторинга
 
 ```csharp
-// вариант 2: поиск отсутствующего числа
 
 using System;
 using System.Diagnostics;
@@ -86,7 +85,6 @@ class Program
 ## Оценка после рефакторинга
 
 ```csharp
-// Новый вариант: поиск отсутствующего числа
 
 using System;
 using System.Diagnostics;
