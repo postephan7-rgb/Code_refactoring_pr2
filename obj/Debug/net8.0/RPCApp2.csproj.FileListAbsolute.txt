@@ -1,0 +1,28 @@
+C:/Users/ASUS/RiderProjects/RPCApp2/RPCApp2/bin/Debug/net8.0/RPCApp2.exe
+C:/Users/ASUS/RiderProjects/RPCApp2/RPCApp2/bin/Debug/net8.0/RPCApp2.deps.json
+C:/Users/ASUS/RiderProjects/RPCApp2/RPCApp2/bin/Debug/net8.0/RPCApp2.runtimeconfig.json
+C:/Users/ASUS/RiderProjects/RPCApp2/RPCApp2/bin/Debug/net8.0/RPCApp2.dll
+C:/Users/ASUS/RiderProjects/RPCApp2/RPCApp2/bin/Debug/net8.0/RPCApp2.pdb
+C:/Users/ASUS/RiderProjects/RPCApp2/RPCApp2/obj/Debug/net8.0/RPCApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/ASUS/RiderProjects/RPCApp2/RPCApp2/obj/Debug/net8.0/RPCApp2.AssemblyInfoInputs.cache
+C:/Users/ASUS/RiderProjects/RPCApp2/RPCApp2/obj/Debug/net8.0/RPCApp2.AssemblyInfo.cs
+C:/Users/ASUS/RiderProjects/RPCApp2/RPCApp2/obj/Debug/net8.0/RPCApp2.csproj.CoreCompileInputs.cache
+C:/Users/ASUS/RiderProjects/RPCApp2/RPCApp2/obj/Debug/net8.0/RPCApp2.dll
+C:/Users/ASUS/RiderProjects/RPCApp2/RPCApp2/obj/Debug/net8.0/refint/RPCApp2.dll
+C:/Users/ASUS/RiderProjects/RPCApp2/RPCApp2/obj/Debug/net8.0/RPCApp2.pdb
+C:/Users/ASUS/RiderProjects/RPCApp2/RPCApp2/obj/Debug/net8.0/RPCApp2.genruntimeconfig.cache
+C:/Users/ASUS/RiderProjects/RPCApp2/RPCApp2/obj/Debug/net8.0/ref/RPCApp2.dll
+/Users/spo/Downloads/Практическое задание 2 (1)/RPCApp2/bin/Debug/net8.0/RPCApp2
+/Users/spo/Downloads/Практическое задание 2 (1)/RPCApp2/bin/Debug/net8.0/RPCApp2.deps.json
+/Users/spo/Downloads/Практическое задание 2 (1)/RPCApp2/bin/Debug/net8.0/RPCApp2.runtimeconfig.json
+/Users/spo/Downloads/Практическое задание 2 (1)/RPCApp2/bin/Debug/net8.0/RPCApp2.dll
+/Users/spo/Downloads/Практическое задание 2 (1)/RPCApp2/bin/Debug/net8.0/RPCApp2.pdb
+/Users/spo/Downloads/Практическое задание 2 (1)/RPCApp2/obj/Debug/net8.0/RPCApp2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/spo/Downloads/Практическое задание 2 (1)/RPCApp2/obj/Debug/net8.0/RPCApp2.AssemblyInfoInputs.cache
+/Users/spo/Downloads/Практическое задание 2 (1)/RPCApp2/obj/Debug/net8.0/RPCApp2.AssemblyInfo.cs
+/Users/spo/Downloads/Практическое задание 2 (1)/RPCApp2/obj/Debug/net8.0/RPCApp2.csproj.CoreCompileInputs.cache
+/Users/spo/Downloads/Практическое задание 2 (1)/RPCApp2/obj/Debug/net8.0/RPCApp2.dll
+/Users/spo/Downloads/Практическое задание 2 (1)/RPCApp2/obj/Debug/net8.0/refint/RPCApp2.dll
+/Users/spo/Downloads/Практическое задание 2 (1)/RPCApp2/obj/Debug/net8.0/RPCApp2.pdb
+/Users/spo/Downloads/Практическое задание 2 (1)/RPCApp2/obj/Debug/net8.0/RPCApp2.genruntimeconfig.cache
+/Users/spo/Downloads/Практическое задание 2 (1)/RPCApp2/obj/Debug/net8.0/ref/RPCApp2.dll
